@@ -26,7 +26,7 @@ Feel free to browse my repositories, check out my contributions, and reach out i
 
 If you enjoy my projects and want to support my work, consider buying me a coffee! Your support helps me keep creating and improving open-source tools and projects.
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/logo-mark.svg)](https://www.buymeacoffee.com/scotthowson)
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/scotthowson)
 
 ---
 
