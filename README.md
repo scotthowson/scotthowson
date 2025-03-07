@@ -1,36 +1,17 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 👋
 
-Hi, I'm **Scott Howson** 👋. I’m an open-source enthusiast with a strong focus on **Ubuntu Ports**, **Ubuntu TV**, and **custom 3D printing**. I specialize in **kernel development**, building tailored solutions for **Ubuntu-based projects**, and crafting useful tools for **3D printing**. 
+Hi, I'm **Scott Howson**, an open-source enthusiast, software developer, and 3D printing expert. I specialize in **kernel development**, contributing to **Ubuntu Ports**, **Ubuntu TV**, and working on **custom 3D printing** projects.
 
-Feel free to explore my repositories, dive into my contributions, and reach out if you’re interested in collaborating or discussing ideas!
-
----
-
-## 🚀 What I’m Working On
-
-- Contributing to **Ubuntu TV** and working on bringing life to old Ubuntu-based projects.
-- Developing and experimenting with **Ubuntu Ports phone kernels**.
-- Focusing on various **3D printing** projects, with an emphasis on both FDM and resin printing.
-- Building custom tools and software solutions to support my development work.
+I enjoy building open-source solutions for **Ubuntu-based systems**, creating tools to enhance **3D printing**, and developing custom **phone kernels**. Feel free to explore my repositories, and if you're interested in collaborating or have ideas to discuss, don’t hesitate to reach out!
 
 ---
 
-## 📬 How to Reach Me
+## 🚀 Current Projects
 
-- Email: [scott@howson.dev](mailto:scott@howson.dev)
-- LinkedIn: [linkedin.com/in/scotthowson](https://linkedin.com/in/scotthowson)
-
----
-
-## 💖 Support Me
-
-If you enjoy my work and want to support me, consider buying me a coffee! Your support helps me continue creating and improving open-source projects.
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/scotthowson">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="80" width="320" />
-  </a>
-</div>
+- **Ubuntu TV**: Reviving and contributing to **Ubuntu TV** with the aim of reintroducing an old, yet innovative project for modern systems.
+- **Ubuntu Ports Phone Kernels**: Developing and experimenting with kernels for **Ubuntu Ports** on various phone devices.
+- **3D Printing**: Innovating in **FDM** and **resin printing**, creating custom parts and tools for personal and professional use.
+- **Open-Source Tools**: Building tools and software to support the growth and functionality of my projects.
 
 ---
 
@@ -43,8 +24,15 @@ If you enjoy my work and want to support me, consider buying me a coffee! Your s
 
 ---
 
-<div align="center">
+## 📬 How to Reach Me
 
+- Email: [scott@howson.dev](mailto:scott@howson.dev)
+- LinkedIn: [linkedin.com/in/scotthowson](https://linkedin.com/in/scotthowson)
+- GitHub: [github.com/scotthowson](https://github.com/scotthowson)
+
+---
+
+<div align="center">
   ## 📈 GitHub Stats
 
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scotthowson&show_icons=true&hide_title=true&count_private=true&hide=prs)
@@ -52,4 +40,16 @@ If you enjoy my work and want to support me, consider buying me a coffee! Your s
 
 ---
 
-Thanks for stopping by! If you have any questions or ideas for collaboration, feel free to reach out. 😊
+## 💖 Support Me
+
+If you enjoy my work, consider supporting my projects by buying me a coffee! Your support allows me to continue building and improving open-source projects and tools for the community.
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/scotthowson">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="80" width="320" />
+  </a>
+</div>
+
+---
+
+Thank you for visiting my profile! Feel free to check out my repositories, contribute, or connect if you're interested in collaborating. 😊
