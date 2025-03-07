@@ -27,9 +27,7 @@ Feel free to explore my repositories, dive into my contributions, and reach out 
 If you enjoy my work and want to support me, consider buying me a coffee! Your support helps me continue creating and improving open-source projects.
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/scotthowson">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" />
-  </a>
+
 </p>
 
 ---
@@ -48,6 +46,9 @@ If you enjoy my work and want to support me, consider buying me a coffee! Your s
   ## 📈 GitHub Stats
 
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scotthowson&show_icons=true&hide_title=true&count_private=true&hide=prs)
+  <a href="https://www.buymeacoffee.com/scotthowson">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" />
+  </a>
 </p>
 
 ---
