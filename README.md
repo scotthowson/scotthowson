@@ -33,6 +33,7 @@ I enjoy building open-source solutions for **Ubuntu-based systems**, creating to
 ---
 
 <div align="center">
+  
   ## 📈 GitHub Stats
 
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scotthowson&show_icons=true&hide_title=true&count_private=true&hide=prs)
