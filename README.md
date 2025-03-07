@@ -1,17 +1,17 @@
 # Welcome to My GitHub Profile!
 
-Hi, I'm **Scott Howson** 👋. I’m an open-source enthusiast, currently working on projects related to **Ubuntu Ports**, **Ubuntu TV**, and **custom 3D printing**. I focus on **kernel development**, building unique solutions for **Ubuntu-based projects**, and creating tools for **3D printing** and other creative endeavors.
+Hi, I'm **Scott Howson** 👋. I’m an open-source enthusiast with a strong focus on **Ubuntu Ports**, **Ubuntu TV**, and **custom 3D printing**. I specialize in **kernel development**, building tailored solutions for **Ubuntu-based projects**, and crafting useful tools for **3D printing**. 
 
-Feel free to browse my repositories, check out my contributions, and reach out if you're interested in collaborating or discussing ideas!
+Feel free to explore my repositories, dive into my contributions, and reach out if you’re interested in collaborating or discussing ideas!
 
 ---
 
 ## 🚀 What I’m Working On
 
-- Contributing to **Ubuntu TV** and exploring the revival of old Ubuntu-based projects.
+- Contributing to **Ubuntu TV** and working on bringing life to old Ubuntu-based projects.
 - Developing and experimenting with **Ubuntu Ports phone kernels**.
-- Working on various **3D printing** projects, focusing on both FDM and resin printing.
-- Building custom tools and software solutions for my projects.
+- Focusing on various **3D printing** projects, with an emphasis on both FDM and resin printing.
+- Building custom tools and software solutions to support my development work.
 
 ---
 
@@ -24,9 +24,13 @@ Feel free to browse my repositories, check out my contributions, and reach out i
 
 ## 💖 Support Me
 
-If you enjoy my projects and want to support my work, consider buying me a coffee! Your support helps me keep creating and improving open-source tools and projects.
+If you enjoy my work and want to support me, consider buying me a coffee! Your support helps me continue creating and improving open-source projects.
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/scotthowson)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/scotthowson">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" />
+  </a>
+</p>
 
 ---
 
@@ -39,9 +43,10 @@ If you enjoy my projects and want to support my work, consider buying me a coffe
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scotthowson&show_icons=true&hide_title=true&count_private=true&hide=prs)
+<p align="center">
+  ## 📈 GitHub Stats
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scotthowson&show_icons=true&hide_title=true&count_private=true&hide=prs)
+</p>
 
 ---
 
